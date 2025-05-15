@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\saitasposipyan2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\saitasposipyan2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\cartcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\cartcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\controllers\\catalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\controllers\\catalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|c:\\users\\aleks\\source\\repos\\asposyp\\asposyp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07F5ED4-568D-465A-BD3E-1A940A37FE15}|AspOsyp\\AspOsyp.csproj|solutionrelative:asposyp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 159,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "AspOsyp\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:05:29.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AspOsyp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:12:38.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:11:51.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Program.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Program.cs",
+              "RelativeToolTip": "AspOsyp\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAGQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:55:55.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\appsettings.json",
+              "RelativeDocumentMoniker": "AspOsyp\\appsettings.json",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\appsettings.json",
+              "RelativeToolTip": "AspOsyp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T13:55:22.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\User.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:53:23.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaitASPosipyan2Context.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\SaitASPosipyan2Context.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\SaitASPosipyan2Context.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\SaitASPosipyan2Context.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\SaitASPosipyan2Context.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAowL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:52:52.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Role.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:52:46.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Review.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:52:35.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\OrderItem.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:52:27.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Order.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:52:19.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:52:12.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Contact.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:52:04.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Category.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:51:54.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Catalog.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\Catalog.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Catalog.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\Catalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:51:45.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\CartCreateDto.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\CartCreateDto.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\CartCreateDto.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\CartCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:51:36.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Models\\Cart.cs",
+              "RelativeToolTip": "AspOsyp\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:51:30.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AspOsyp\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:51:10.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "AspOsyp\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:51:04.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "AspOsyp\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:50:58.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspOsyp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:50:48.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "AspOsyp\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:50:41.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "AspOsyp\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:50:30.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CatalogsController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\CatalogsController.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Controllers\\CatalogsController.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\CatalogsController.cs",
+              "RelativeToolTip": "AspOsyp\\Controllers\\CatalogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:49:10.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "AspOsyp\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\AspOsyp\\AspOsyp\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "AspOsyp\\Controllers\\CartsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:48:57.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
